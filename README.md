@@ -1,5 +1,7 @@
 # muldyr.no
 
+![Muldyr](src/images/muldyr.png)
+
 ## Project Status
 
 ~~Live @ [https://muldyr.no](muldyr.no) ✨~~
