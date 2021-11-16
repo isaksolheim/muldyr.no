@@ -8,6 +8,8 @@ const IndexPage = ({ data }) => {
     <main>
       <title>muldyr.no</title>
       <Img fixed={data.file.childImageSharp.fixed} />
+      <p style={{ color: 'darkgray' }}>Niels Simonsen</p>
+      <p>Sydlandsk bjerglandskab med ryttere på muldyr</p>
     </main>
   );
 };
