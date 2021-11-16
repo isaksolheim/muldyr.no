@@ -1,6 +1,6 @@
 # muldyr.no
 
-![Muldyr](src/images/640px-Niels_Simonsen_-_Sydlandsk_bjerglandskab_med_ryttere_på_muldyr.png)
+![Muldyr](src/images/muldyr.png)
 
 ## Project Status
 
