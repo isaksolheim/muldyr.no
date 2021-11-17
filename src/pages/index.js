@@ -15,7 +15,7 @@ const IndexPage = ({ data }) => (
     </p>
     <p className='small'>
       Inspirert av{' '}
-      <a href='https://www.elg.no' target='_blank' rel='noreferrer'>
+      <a href='http://www.elg.no' target='_blank' rel='noreferrer'>
         elg.no
       </a>
     </p>
