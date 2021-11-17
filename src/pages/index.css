@@ -1,0 +1,35 @@
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #121212;
+    --fg-color: #cccccc;
+  }
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg-color: #ffffff;
+    --fg-color: #121212;
+  }
+}
+body {
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  margin-top: 30px;
+  font-family: Arial, Helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+p.small {
+  margin-top: 60px;
+  font-size: 10px;
+  font-weight: 400;
+}
